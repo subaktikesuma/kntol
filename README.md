@@ -9,8 +9,8 @@ I'm a Student, if there is a mistake please guide me
 
 ### Connect with me:
 
-[<img align="left" width="22" alt="LutfilahDz on YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg">][YouTube]
-[<img align="left" width="22" alt="LutfilahDz on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/KazuModz)
+[<img align="left" width="22" alt="Subakti Gaming Modz on YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg">][YouTube]
+[<img align="left" width="22" alt="Subakti Gaming Modz on Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg">](https://t.me/KazuModz)
 <br>
 
 ### Languages and Tools:
@@ -32,7 +32,7 @@ I'm a Student, if there is a mistake please guide me
     <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lutfilahdzaky&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
-    <a href="https://youtube.com/SubaktiGaminGModz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCPHiZNMamtbYzGOICSKoY2A?label=YouTube&logo=YouTube&style=for-the-badge"></a>
+    <a href="https://youtube.com/SubaktiGaminGModz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCOJssYzKDzEo7Xf80TndqnA?label=YouTube&logo=YouTube&style=for-the-badge"></a>
 </p>
 
 [YouTube]: https://youtube.com/SubaktiGaminGModz?sub_confirmation=1
