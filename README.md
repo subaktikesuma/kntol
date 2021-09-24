@@ -28,8 +28,8 @@ I'm a Student, if there is a mistake please guide me
 ---
 
 <p align="center">
-    <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=lutfilahdzaky&theme=dracula&show_icons=true&hide_border=true"></a>
-    <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lutfilahdzaky&theme=dracula&hide_border=true"></a>
+    <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=subaktikesuma&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/subaktikesuma"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=subaktikesuma&theme=dracula&hide_border=true"></a>
 </p>
 <p align="center">
     <a href="https://youtube.com/SubaktiGaminGModz?sub_confirmation=1"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCOJssYzKDzEo7Xf80TndqnA?label=YouTube&logo=YouTube&style=for-the-badge"></a>
